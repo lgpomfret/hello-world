@@ -3,4 +3,5 @@ This is a test document.  We are going to see how badly I can screw up the branc
 
 This is only a test.  
 ## subsection ##
-this thwsadl;kfjdfghwertyhvbh;fyklsrhwuasjk;artg
+And now I am going to correct this sentence.  The quick brown fox jumped over the lazy dog.
+
